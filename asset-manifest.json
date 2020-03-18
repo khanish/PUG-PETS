@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PUG-PETS/static/css/main.3ab75217.chunk.css",
+    "main.js": "/PUG-PETS/static/js/main.202d79dc.chunk.js",
+    "main.js.map": "/PUG-PETS/static/js/main.202d79dc.chunk.js.map",
+    "runtime-main.js": "/PUG-PETS/static/js/runtime-main.e760a735.js",
+    "runtime-main.js.map": "/PUG-PETS/static/js/runtime-main.e760a735.js.map",
+    "static/js/2.16c8125b.chunk.js": "/PUG-PETS/static/js/2.16c8125b.chunk.js",
+    "static/js/2.16c8125b.chunk.js.map": "/PUG-PETS/static/js/2.16c8125b.chunk.js.map",
+    "index.html": "/PUG-PETS/index.html",
+    "precache-manifest.0c4f47f74ddd89975c61d1b784c58512.js": "/PUG-PETS/precache-manifest.0c4f47f74ddd89975c61d1b784c58512.js",
+    "service-worker.js": "/PUG-PETS/service-worker.js",
+    "static/css/main.3ab75217.chunk.css.map": "/PUG-PETS/static/css/main.3ab75217.chunk.css.map",
+    "static/js/2.16c8125b.chunk.js.LICENSE": "/PUG-PETS/static/js/2.16c8125b.chunk.js.LICENSE",
+    "static/media/index.css": "/PUG-PETS/static/media/snapitc.7c1cbcc3.ttf",
+    "static/media/kc-pug.jpg": "/PUG-PETS/static/media/kc-pug.7e97e390.jpg",
+    "static/media/kc-pug2.jpg": "/PUG-PETS/static/media/kc-pug2.07ca692d.jpg",
+    "static/media/kc-pug3.jpg": "/PUG-PETS/static/media/kc-pug3.124c3e59.jpg",
+    "static/media/kc-pug4.png": "/PUG-PETS/static/media/kc-pug4.11adf96f.png",
+    "static/media/kc-pug5.jpg": "/PUG-PETS/static/media/kc-pug5.203ccd05.jpg",
+    "static/media/kc-pug6.jpg": "/PUG-PETS/static/media/kc-pug6.5f719fc8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e760a735.js",
+    "static/js/2.16c8125b.chunk.js",
+    "static/css/main.3ab75217.chunk.css",
+    "static/js/main.202d79dc.chunk.js"
+  ]
+}
